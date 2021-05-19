@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace First
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int lenght;
+            bool compare;
+            byte age;
+            long factorial;
+            float weight;
+            char schoolClass;
+            string nameSchool;
+            double resist;
+            ushort pageBook;
+            sbyte temp;
+        }
+    }
+}
